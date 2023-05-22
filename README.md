@@ -80,6 +80,12 @@ Foi utilizado um embedded database, sqlite3.
 ### Detalhes de itens
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/91880b5a-8723-4450-be24-03ddff6259bc)
 
+### Detalhes de itens se for criado por você
+![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/e3c8d803-d48a-4f44-bb60-44a13fd213e8)
+
+### Página de edição de itens criados por você
+![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/7872ed57-af40-424b-864f-9b4b50a5e93e)
+
 ### Inbox
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/d39aa1fb-17b8-4f79-9121-184275fae986)
 
@@ -100,7 +106,4 @@ Foi utilizado um embedded database, sqlite3.
 
 ### Itens relacionados (da mesma categoria)
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/9629019d-6c92-46cd-a954-6b7bcbb8e5a3)
-
-### Efeito hover nos botões
-![image](https://github.com/lucasalvesb/django-project/assets/71532408/4ee512d4-7bf7-44f7-a71e-ced8320b1be4)
 
