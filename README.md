@@ -2,12 +2,12 @@
 
 * Esse projeto foi criado com o intuito de ser um market place. Nele, além da autenticação, você é capaz de:
 
-## Criar novos itens.
-## Editá-los (ou excluí-los).
-## Conversar com vendedores sobre os itens.
-## Pesquisar por categoria, letra, palavra (e a busca checa a descrição, também).
-## Ver produtos relacionados (ou seja, da mesma categoria) abaixo do produto que você clicou.
-## Observar os produtos que você inseriu no market place, através do dashboard.
+# Criar novos itens.
+# Editá-los (ou excluí-los).
+# Conversar com vendedores sobre os itens.
+# Pesquisar por categoria, letra, palavra (e a busca checa a descrição, também).
+# Ver produtos relacionados (ou seja, da mesma categoria) abaixo do produto que você clicou.
+# Observar os produtos que você inseriu no market place, através do dashboard.
 
 ## Sumário
 
