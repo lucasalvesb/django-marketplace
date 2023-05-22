@@ -3,7 +3,7 @@
 {% block title %} Items {% endblock %}
 
 {% block content %}
-    <div class="pb-6 grid grid-cols-4 gap-4 bg-gray-200">
+    <div class="pb-6 pl-4 pr-4 grid grid-cols-4 gap-4 bg-gray-200">
       <div class="col-span-1">
           <form method="GET" action="{% url 'item:items' %}">
             <input name="query" class="w-full mt-2 py-4 px-6 border rounded-xl" type="text" value="{{ query }}" placeholder="Search for items" />
@@ -33,7 +33,7 @@
       <div class="col-span-3">
         <div class="grid grid-cols-3 gap-3">
     {% for item in items %}
-    <div>
+    <div class="pt-2">
       <a href="{% url 'item:detail' item.id %}">
         <div>
           <img
