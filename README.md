@@ -77,7 +77,7 @@ Foi utilizado um embedded database, sqlite3.
 ### Ícones da navbar
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/d990ffb2-5069-48d0-a2dc-5dd476109fa8)
 
-### Edição de itens
+### Detalhes de itens
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/91880b5a-8723-4450-be24-03ddff6259bc)
 
 ### Inbox
