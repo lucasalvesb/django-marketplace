@@ -93,7 +93,7 @@ Foi utilizado um embedded database, sqlite3.
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/16639d12-1823-4873-9d1b-c31d582ec095)
 
 ### Adicionando um novo item para venda
-![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/fddcb47f-405b-4489-95db-c5ff87fc43c3)
+![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/de386223-54b9-490f-a7d1-adf0578f03f2)
 
 ### Dashboard com apenas os itens criados por você
 ![image](https://github.com/lucasalvesb/django-marketplace/assets/71532408/b0194eac-18a8-4280-9ebd-db49502d3de9)
